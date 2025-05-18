@@ -12,6 +12,5 @@ If you want to release hardware or software, please cite our work:
   pages={33--38},
   year={2024},
   publisher={IEEE}
-}```
-
-
+}
+```
